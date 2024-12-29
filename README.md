@@ -2,7 +2,7 @@
 
 Mute posts from communities you're tired of seeing.
 
-<video controls src="mutexcommunitiesshowcase - Made with Clipchamp.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/fb1ddf51-5cbd-4d60-8b6f-d31d3480cef9
 
 ## Installation
 
