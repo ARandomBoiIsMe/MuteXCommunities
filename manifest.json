@@ -4,6 +4,9 @@
     "description": "Removes all posts from specified X communities from your feed.",
     "version": "1.0.0",
     "permissions": ["storage"],
+    "icons": {
+        "128": "icon.png"
+    },
     "action": {
         "default_popup": "popup/popup.html"
     },
